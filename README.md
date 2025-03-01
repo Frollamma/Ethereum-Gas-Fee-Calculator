@@ -10,7 +10,7 @@ Ethereum Gas Fee Calculator is a simple Python script that fetches real-time gas
 
 ## Installation 
 1. Clone the repository:
-   ```bash
+   ```bash 
    git clone https://github.com/yourusername/ethereum-gas-calculator.git
    cd ethereum-gas-calculator
    ```   
