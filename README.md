@@ -23,7 +23,7 @@ Ethereum Gas Fee Calculator is a simple Python script that fetches real-time gas
 1. Get your free API key from [Etherscan](https://etherscan.io/apis)
 2. Replace `YOUR_ETHERSCAN_API_KEY` in the script with your key
 3. Run the script:
-   ```bash
+   ```bash 
    python ethereum_gas_calculator.py
    ```
 
